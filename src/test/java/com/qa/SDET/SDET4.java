@@ -14,7 +14,7 @@ public class SDET4 {
     }
     public static void main(String[] args) {
 
-        boolean bet = isAnagram("aaabbbcdssdftramlwhfjfjgg", "walmart");
+        boolean bet = isAnagram("raktim", "imtkar");
         System.out.println((bet) ? "Two strings are anagrams" : "Not Anagrams");
 
     }

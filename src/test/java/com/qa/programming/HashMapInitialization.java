@@ -12,6 +12,8 @@ public class HashMapInitialization {
         map = new HashMap<String,Integer>();
         map.put("A",100);
         map.put("B",200);
+
+        map.remove("A");
         System.out.println(map);
     }
 

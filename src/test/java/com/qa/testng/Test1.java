@@ -16,6 +16,8 @@ public class Test1 {
        static void get() {
            System.out.println("get child ");
        }
+
+
     public static void main(String[] args) {
        A obj = new A();
        obj.get();

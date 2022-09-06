@@ -9,6 +9,7 @@ public class ArrayListDemo {
 
     public static void main(String[] args) {
         ArrayList<Object> ar = new ArrayList<Object>();
+       // LinkedList<Object> ar1 = new LinkedList<Object>();
         //by default it will be divided into 10 equal parts by default
         //VC = 10 , PC = 0 (Physical capacity)
         System.out.println(ar.size()); //it will calculate based on PC

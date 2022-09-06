@@ -1,15 +1,33 @@
 package com.qa.programming.oops;
 
-class A
-{
-    void B()
+
+public class Inheritence {
+
+    public static int get()
     {
-        System.out.println("accessed  !!");
+        try
+        {
+
+        }
+
+        catch(Exception e )
+        {
+
+        }
+
+        finally
+        {
+
+        }
+
+
+        return 9;
     }
-}
-public class Inheritence extends A {
-    public static void main(String[] args) {
-        Inheritence obj = new Inheritence();
-        obj.B();
+
+  public static void main(String[] args) {
+
+
+
+
     }
 }

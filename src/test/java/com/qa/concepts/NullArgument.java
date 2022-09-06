@@ -14,11 +14,6 @@ public class NullArgument {
         System.out.println("Object invoked");
     }
 
-    /*
-    public static void test(StringBuffer o)
-    {
-        System.out.println("Object invoked");
-    }*/
 
     public static void main(String[] args) {
 

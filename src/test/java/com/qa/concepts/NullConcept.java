@@ -12,7 +12,7 @@ public class NullConcept {
 
     public static void main(String[] args) {
         //1. default ref value is null
-       // Integer i = null;
+      // Integer i = null;
         //int j = i;   //here null value is assigned to a primitive data-type
         //System.out.println(j);
 

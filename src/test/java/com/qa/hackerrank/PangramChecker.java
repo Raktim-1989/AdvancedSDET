@@ -42,7 +42,7 @@ Traverse through the entire boolean array and see if all characters are covered.
 
     public static void main(String[] args) {
 
-        String s = "The quick brown fox jumps over the lazy dog";
+        String s = "he is raktim";
         System.out.println(checkPangram(s));
 
     }

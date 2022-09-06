@@ -18,6 +18,7 @@ public class HackerRank003 {
         {
             list.add(s.substring(i,i+k));
         }
+        System.out.println(list);
         Collections.sort(list);
         smallest = list.get(0);
         largest = list.get(list.size()-1);

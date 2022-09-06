@@ -26,7 +26,7 @@ return newArray;
     }
     public static void main(String[] args) {
 
-        Object[] arr =  matchArrayElements(new int[]{1,22,45,67} , new int[]{1,22,67,3});
+        Object[] arr =  matchArrayElements(new int[]{1,22,22,45,67} , new int[]{1,22,67,3});
         System.out.println(Arrays.toString(arr));
 
     }

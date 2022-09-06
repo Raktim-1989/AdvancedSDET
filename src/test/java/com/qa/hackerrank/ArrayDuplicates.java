@@ -35,7 +35,7 @@ public class ArrayDuplicates {
            {
                for(int j = i+1;j<arr.length;j++)
                {
-                   if(arr[i] != arr[j])
+                   if(arr[i] == arr[j])
                    {
                        set.add(arr[i]);
                    }
